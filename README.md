@@ -2,7 +2,7 @@
 
 **`Bacharelando em Ciência da Computação`**
 
-[cite_start]Me chamo Andrey Ferreira, tenho 23 anos e moro em Maceió, Alagoas[cite: 41]. [cite_start]Sou formado como Técnico em Química pelo IFAL [cite: 60] [cite_start]e, atualmente, curso Bacharelado em Ciência da Computação na Universidade Federal de Alagoas (UFAL). [cite_start]Sou apaixonado por resolver problemas complexos através da tecnologia, combinando um forte raciocínio lógico — lapidado por diversas premiações em olimpíadas científicas  — com o desenvolvimento de software moderno. [cite_start]Atualmente, participo do projeto de cooperação UFAL/BRISA voltado ao desenvolvimento de software[cite: 66].
+Me chamo Andrey Ferreira, tenho 23 anos e moro em Maceió, Alagoas. Sou formado como Técnico em Química pelo IFAL e, atualmente, curso Bacharelado em Ciência da Computação na Universidade Federal de Alagoas (UFAL). Sou apaixonado por resolver problemas complexos através da tecnologia.
 
 <p align="left">
     <a href="https://github.com/AndreyFerreiraS?tab=repositories&sort=stargazers">
@@ -36,13 +36,6 @@
 
 <br/>
 <br/>
-
-### 🏆 Conquistas Acadêmicas
-
-* [cite_start]**Ouro:** Olimpíada Brasileira de Astronomia (2021, 2022)[cite: 61].
-* [cite_start]**Prata:** Olimpíada de Matemática de Alagoas (2022)[cite: 61].
-* [cite_start]**Bronze:** Olimpíada de Química Norte-Nordeste e de Alagoas[cite: 62].
-* [cite_start]**Menção Honrosa:** OBMEP (2019, 2021, 2022)[cite: 63].
 
 ---
 
